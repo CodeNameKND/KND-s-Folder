@@ -31,7 +31,7 @@ body, html {
 	padding: 0
 }
 body {
-    background-image: url("sunset.jpg");
+    background-image: url("website/sunset.jpg");
 }
 img {
 	max-width: 100%;
