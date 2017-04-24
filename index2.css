@@ -18,6 +18,9 @@ font-weight:bold
 
 /* relevant styles */
 .img__wrap {
+  display: block;
+  margin: auto;
+  width: 40%;
   position: relative;
   height: 400px;
   width: 400px;
