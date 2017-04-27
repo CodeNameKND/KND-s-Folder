@@ -48,5 +48,5 @@ font-weight:bold
 }
 
 p { text-align: right;
-
+word-wrap: break-word;
 }
