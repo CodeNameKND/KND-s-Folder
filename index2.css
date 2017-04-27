@@ -47,6 +47,6 @@ font-weight:bold
   opacity: 1;
 }
 
-p { text-align: right;
+p { text-align: justify;
 word-wrap: break-word;
 }
