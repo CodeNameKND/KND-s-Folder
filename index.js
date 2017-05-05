@@ -2808,7 +2808,7 @@ button.close {
 }.carousel - indicators.active {
     width: 12 px;height: 12 px;margin: 0;background - color: #fff
 }.carousel - caption {
-    position: absolute;right: 15 % ;bottom: 20 px;left: 15 % ;z - index: 10;padding - top: 20 px;padding - bottom: 20 px;color: #fff;text - align: center;text - shadow: 0 1 px 2 px rgba(0, 0, 0, .6)
+    position: absolute;right: 15 % ;bottom: 20 px;left: 15 % ;z - index: 10;padding - top: 20 px;padding - bottom: -80 px;color: #fff;text - align: center;text - shadow: 0 1 px 2 px rgba(0, 0, 0, .6)
 }.carousel - caption.btn {
     text - shadow: none
 }
