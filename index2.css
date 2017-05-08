@@ -1,9 +1,6 @@
 .container{ background-color: black;
 font-weight:bold
 	
-.carousel-indicators { 
-bottom: -50px;
-}
 .carousel-inner > .item  > img
 { margin: 0 auto;
 	
