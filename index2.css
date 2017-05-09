@@ -1,4 +1,4 @@
-p { bottom: -75px}
+
 
 .container{ background-color: black;
 font-weight:bold
@@ -46,5 +46,5 @@ font-weight:bold
   opacity: 1;
 }
 
-p { text-align: left;
+p { text-align: left; bottom: -75px;
 }
